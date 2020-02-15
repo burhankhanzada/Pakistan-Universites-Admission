@@ -1,0 +1,59 @@
+[
+    {
+        "name": "IQRA UNIVERSITY",
+        "sector": "Private",
+        "website": "http://www.iqra.edu.pk",
+        "email": "registrar@iqra.edu.pk",
+        "city": [
+            "Karachi",
+            "Islamabad"
+        ],
+        "campaues": [
+            {
+                "name": "Main/EDC Tower Campus",
+                "address": "Defence View, Shaheed-e-Millat Road, Karachi"
+            },
+            {
+                "name": "North Kaarchi Campus",
+                "address": "Sector 7b North Karachi Twp, Karachi"
+            },
+            {
+                "name": "Gulshan Campus",
+                "address": "Block 2 Abid Town Block 2 Gulshan-e-Iqbal, Karachi"
+            },
+            {
+                "name": "North Nazimabad Campus",
+                "address": "G-16/1 Allama Rasheed Turabi Rd, Block-B Block B North Nazimabad Town, Karachi"
+            },
+            {
+                "name": "Airport Campus",
+                "address": "Main Shahra e Faisal, Faisal Cantonment, Karach"
+            },
+            {
+                "name": "Islamabad Campus",
+                "address": "Main Shahra e Faisal, Faisal Cantonment, Karach"
+            }
+        ],
+        "degrees": [
+            "bscs",
+            "bsse",
+            "bee",
+            "bba",
+            "bsee"
+        ]
+    },
+    {
+        "name": "Sir Syed University",
+        "sector": "Private",
+        "website": "http://www.iqra.edu.pk",
+        "email": "registrar@iqra.edu.pk",
+        "city": "Karachi",
+        "address": "Main University Road, Karachi 75300, Pakistan",
+        "degrees": [
+            "bscs",
+            "bsse",
+            "bee",
+            "bsee"
+        ]
+    }
+]

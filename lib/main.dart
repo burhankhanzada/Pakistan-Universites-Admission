@@ -1,16 +1,22 @@
 import 'package:flutter/material.dart';
+import 'package:pakistan_universities_admission/pages/home.dart';
 
-void main() => runApp(App());
+main() => runApp(App());
 
 class App extends StatelessWidget {
+
+  final String title = 'Pakistan Universities Admission';
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Pakistan Universities Admission',
+      debugShowCheckedModeBanner: false,
+      title: title,
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primaryColor: Colors.green[900],
+        accentColor:  Colors.green[900]
       ),
-      home: Container(),
+      home: HomePage(title: title),
     );
   }
 }

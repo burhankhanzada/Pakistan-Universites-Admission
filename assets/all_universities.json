@@ -1,0 +1,1304 @@
+[
+    {
+        "name": "ABASYN UNIVERSITY",
+        "sector": "Private",
+        "city": "Peshawar",
+        "address": "Peshawar Campus, Ring Road (Charsadda Link), Peshawar.",
+        "other_details": "Email: admissions@abasyn.edu.pk\nFax:+92 051 8438325\nURL:http://www.abasyn.edu.pk/"
+    },
+    {
+        "name": "Abbottabad University of Science and Technology (AUST)",
+        "sector": "Public",
+        "city": "Abbottabad",
+        "address": "Captain Akaash Rabbani Shaheed Road, Tehsil Havelian, District Abbottabad, Khyber Pakhtunkhwa",
+        "other_details": "Email: info@aust.edu.pk\nFax:\nURL:http://aust.edu.pk"
+    },
+    {
+        "name": "ABDUL WALI KHAN UNIVERSITY",
+        "sector": "Public",
+        "city": "Mardan",
+        "address": "Garden Campus Toru Road, Mardan",
+        "other_details": "Email: ua-cdc@awkum.edu.pk\nFax:\nURL:http://www.awkum.edu.pk"
+    },
+    {
+        "name": "Aga Khan University",
+        "sector": "Private",
+        "city": "Karachi",
+        "address": "First Floor, Juma Building The Aga Khan University P.O. Box 3500, Stadium Road, Karachi 74800, Pakistan",
+        "other_details": "Email: mc.ea@aku.edu\nFax:+92 21 3493 4294, 34\nURL:https://www.aku.edu/"
+    },
+    {
+        "name": "AIR UNIVERSITY",
+        "sector": "Public",
+        "city": "Islamabad",
+        "address": "Service Road E-9 / E-8, Islamabad, Pakistan، Islamabad 44000, Pakistan",
+        "other_details": "Email: amjad@mail.au.edu.pk\nFax:051-9260158\nURL:http://www.au.edu.pk/"
+    },
+    {
+        "name": "AL-HAMD ISLAMIC UNIVERSITY",
+        "sector": "Private",
+        "city": "Quetta",
+        "address": "Airport Road Quetta, Baleli Road, Quetta, Pakistan",
+        "other_details": "Email: info@aiu.edu.pk\nFax:\nURL:http://www.aiu.edu.pk"
+    },
+    {
+        "name": "Al-Khair University (Banned by HEC)",
+        "sector": "Private",
+        "city": "Muzzaffarabad",
+        "address": "University Road, Bhimber (AJK)",
+        "other_details": "Email: info@alkhair.edu.pk\nFax:\nURL:http://alkhair.edu.pk"
+    },
+    {
+        "name": "ALI INSTITUTE OF EDUCATION",
+        "sector": "Private",
+        "city": "Lahore",
+        "address": "Shahrah-e-Roomi (Ferozpur Road), Lahore 54000.",
+        "other_details": "Email: info@aie.edu.pk\nFax:\nURL:http://www.aie.edu.pk/"
+    },
+    {
+        "name": "ALLAMA IQBAL OPEN UNIVERSITY",
+        "sector": "Public",
+        "city": "Islamabad",
+        "address": "Ashfaq Ahmed Road, H-8/2، Islamabad 44000, Pakistan",
+        "other_details": "Email: support@aiou.edu.pk\nFax:(042) 99260021\nURL:http://www.aiou.edu.pk"
+    },
+    {
+        "name": "Bacha Khan University",
+        "sector": "Public",
+        "city": "testcity",
+        "address": "Bacha Khan University, Palosa, Charsadda.",
+        "other_details": "Email: webmaster@bkuc.edu.pk\nFax:\nURL:http://www.bkuc.edu.pk/"
+    },
+    {
+        "name": "BAHAUDDIN ZAKARIYA UNIVERSITY",
+        "sector": "Public",
+        "city": "Multan",
+        "address": "Bosan Road,Multan 60000, Multan, Pakistan",
+        "other_details": "Email: registrar@bzu.edu.pk\nFax:+92 61 9210069\nURL:http://www.bzu.edu.pk"
+    },
+    {
+        "name": "BAHRIA UNIVERSITY",
+        "sector": "Public",
+        "city": "Islamabad",
+        "address": "Sector E-8، Shangrilla Rd, Islamabad, Pakistan",
+        "other_details": "Email: info@bahria.edu.pk\nFax: 92-51-9260885\nURL:http://www.bahria.edu.pk/"
+    },
+    {
+        "name": "Balochistan University of Engineering & Technology",
+        "sector": "Public",
+        "city": "Khuzdar",
+        "address": "Balochistan University of Engg & Technology (BUET), Khuzdar.",
+        "other_details": "Email: info@buetk.edu.pk\nFax:FAX +92 848 413197,\nURL:http://www.buetk.edu.pk"
+    },
+    {
+        "name": "BALOCHISTAN UNIVERSITY OF INFORMATION TECHNOLOGY & MANAGEMENT SCIENCES",
+        "sector": "Public",
+        "city": "Quetta",
+        "address": "Balochistan University of Information Technology, Engineering and Management Sciences, Airport Road, Baleli, Quetta.",
+        "other_details": "Email: faisal.durrani@buitms.edu.pk\nFax:+92 (81) 2880522\nURL:http://www.buitms.edu.pk"
+    },
+    {
+        "name": "BAQAI MEDICAL UNIVERSITY",
+        "sector": "Private",
+        "city": "Karachi",
+        "address": "51, Deh Tor, Gadap Road, Near Toll Plaza, Super Highway P.O Box No 2407, Karachi - 74600, Pakistan.",
+        "other_details": "Email: info@baqai.edu.pk\nFax:(092-21)34410-317 ,\nURL:http://www.baqai.edu.pk"
+    },
+    {
+        "name": "Barret Hodgson University",
+        "sector": "Private",
+        "city": "Karachi",
+        "address": "The Salim Habib Campus, NC-24, Deh Dih, Korangi Creek, Karachi",
+        "other_details": "Email: info@bhu.edu.pk\nFax:\nURL:http://www.bhu.edu.pk/"
+    },
+    {
+        "name": "BEACONHOUSE NATIONAL UNIVERSITY",
+        "sector": "Private",
+        "city": "Lahore",
+        "address": "13 KM Raiwaind Road, Near Jati Umrah Road, Lahore 54400.",
+        "other_details": "Email: info@bnu.edu.pk\nFax:(92) 42-5760254\nURL:http://www.bnu.edu.pk"
+    },
+    {
+        "name": "BENAZIR BHUTTO SHAHEED UNIVERSITY LYARI",
+        "sector": "Public",
+        "city": "Karachi",
+        "address": "Fakir Muhammad Dura Khan Road, Near “Kashti Chowk” Lyari, Karachi, Postal Code: 75660.",
+        "other_details": "Email: info@bbsul.edu.pk\nFax:\nURL:http://www.bbsul.edu.pk"
+    },
+    {
+        "name": "Benazir Bhutto Shaheed University of Technology & Skill Development, Khairpur Mirs",
+        "sector": "Public",
+        "city": "Khairpur",
+        "address": "Station Road Near Mil Colony Khairpur MiRS Khairpur Khairpur Mirs",
+        "other_details": "Email: missingemail@bbsut.edu.pk\nFax:missing\nURL:https://www.underprocess.pk/"
+    },
+    {
+        "name": "CAPITAL UNIVERSITY OF SCIENCE & TECHNOLOGY",
+        "sector": "Private",
+        "city": "Islamabad",
+        "address": "Capital University of Science & Technology Islamabad Expressway, Kahuta Road, Zone-V Islamabad.",
+        "other_details": "Email: registrar@cust.edu.pk\nFax:+92-51-4486705\nURL:http://www.cust.edu.pk/"
+    },
+    {
+        "name": "CECOS UNIVERSITY OF INFORMATION TECHNOLOGY & EMERGING SCIENCES",
+        "sector": "Private",
+        "city": "Peshawar",
+        "address": "CECOS University, Phase 6, Sector F-5, Hayatabad, Peshawar.",
+        "other_details": "Email: info@www.cecos.edu.pk\nFax:(92) (091) 5860294\nURL:http://www.cecos.edu.pk"
+    },
+    {
+        "name": "CITY UNIVERSITY OF SCIENCE AND INFORMATION TECHNOLOGY",
+        "sector": "Private",
+        "city": "Peshawar",
+        "address": "City University Of Science and Information Technology Dalazak Road Peshawar, Pakistan.",
+        "other_details": "Email: info@cusit.edu.pk\nFax:+92 91 2609500\nURL:http://www.cityuniversity.edu.pk"
+    },
+    {
+        "name": "COMMECS INSTITUTE OF BUSINESS & EMERGING SCIENCES",
+        "sector": "Private",
+        "city": "Karachi",
+        "address": "Plot No. 40-B, Block-6, PECHS, Karachi.",
+        "other_details": "Email: info@commecsinstitute.edu.pk\nFax:8110751\nURL:http://www.commecsinstitute.edu.pk"
+    },
+    {
+        "name": "COMSATS INSTITUTE OF INFORMATION TECHNOLOGY",
+        "sector": "Public",
+        "city": "Islamabad",
+        "address": "Park Road, Tarlai Kalan, Islamabad 45550, Pakistan",
+        "other_details": "Email: registrar@comsats.edu.pk\nFax:051-9247006\nURL:https://www.comsats.edu.pk/"
+    },
+    {
+        "name": "DADABHOY INSTITUTE OF HIGHER EDUCATION",
+        "sector": "Private",
+        "city": "Karachi",
+        "address": "SNPA-17/B, Block 3, P.E.C.H.Society,Shaheed-e-Millat Road, Karachi.",
+        "other_details": "Email: registrar@dadabhoy.edu.pk\nFax:92 21 4389147\nURL:http://www.dadabhoy.edu.pk"
+    },
+    {
+        "name": "DAWOOD UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+        "sector": "Public",
+        "city": "Karachi",
+        "address": "M.A. Jinnah Road, Karachi 74800.",
+        "other_details": "Email: info@duet.edu.pk\nFax:021-99230710\nURL:http://www.duet.edu.pk"
+    },
+    {
+        "name": "DHA SUFFA UNIVERSITY",
+        "sector": "Private",
+        "city": "Karachi",
+        "address": "DG-78, Off Khayaban-e-Tufail, Ph-VII (Ext),DHA, Karachi-75500.",
+        "other_details": "Email: info@dsu.edu.pk\nFax:021-35244855\nURL:http://www.dsu.edu.pk"
+    },
+    {
+        "name": "DOW UNIVERSITY OF HEALTH SCIENCES",
+        "sector": "Public",
+        "city": "Karachi",
+        "address": "Baba-E-Urdu Road, Karachi 74200.",
+        "other_details": "Email: ctu@duhs.edu.pk\nFax:\nURL:http://www.duhs.edu.pk"
+    },
+    {
+        "name": "FATIMA JINNAH MEDICAL UNIVERSITY, LAHORE",
+        "sector": "Public",
+        "city": "Lahore",
+        "address": "Shara-I-Fatima Jinnah ,Queens Road Lahore",
+        "other_details": "Email: info.college@fjmc.edu.pk\nFax:\nURL:http://www.fjmc.edu.pk/"
+    },
+    {
+        "name": "Fatima Jinnah Women University",
+        "sector": "Public",
+        "city": "Rawalpindi",
+        "address": "The Mall, Old Presidency, Rawalpindi",
+        "other_details": "Email: bhs@fjwu.edu.pk\nFax:+92 (0)51 9292903\nURL:http://www.fjwu.edu.pk"
+    },
+    {
+        "name": "FEDERAL URDU UNIVERSITY OF ARTS, SCIENCES & TECHNOLOGY",
+        "sector": "Public",
+        "city": "Islamabad",
+        "address": "Sector G-7/1, Near Zero Point,Islamabad.",
+        "other_details": "Email: info@fuuastisb.edu.pk\nFax:051-9252855\nURL:http://www.fuuastisb.edu.pk/"
+    },
+    {
+        "name": "FORMAN CHRISTIAN COLLEGE",
+        "sector": "Private",
+        "city": "Lahore",
+        "address": "Forman Christian College Ferozepur Road Lahore 54600 Pakistan",
+        "other_details": "Email: contact@fccollege.edu.pk\nFax: +92 (42) 9923 0703\nURL:http://www.fccollege.edu.pk"
+    },
+    {
+        "name": "FOUNDATION UNIVERSITY",
+        "sector": "Private",
+        "city": "Islamabad",
+        "address": "Defence Avenue, Phase-I, DHA,Islamabad",
+        "other_details": "Email: info@fui.edu.pk\nFax:92-51-5151433\nURL:http://www.fui.edu.pk/"
+    },
+    {
+        "name": "Gambat Institute of Medical Sciences",
+        "sector": "Public",
+        "city": "Khairpur",
+        "address": "Gambat Institute of Medical Sciences, Gambat Station Road, Pakistan.",
+        "other_details": "Email: mailus@gims.edu.pk\nFax:\nURL:http://www.gims.edu.pk/"
+    },
+    {
+        "name": "GANDHARA UNIVERSITY",
+        "sector": "Private",
+        "city": "Khyber Pukhtunkhwa",
+        "address": "Canal Road University Town, Peshawar.",
+        "other_details": "Email: info@gandhara.edu.pk\nFax:92 (0)91 5844428\nURL:http://www.gandhara.edu.pk"
+    },
+    {
+        "name": "GHAZI UNIVERSITY",
+        "sector": "Public",
+        "city": "Dera Ghazi Khan",
+        "address": "Ghazi University, Dera Ghazi Khan - City Campus, College Chowk, Near Pul Dat.",
+        "other_details": "Email: info@gudgk.edu.pk\nFax:\nURL:http://www.gudgk.edu.pk"
+    },
+    {
+        "name": "GHULAM ISHAQ KHAN INSTITUTE OF ENGINEERING SCIENCES & TECHNOLOGY",
+        "sector": "Private",
+        "city": "Swabi",
+        "address": "GIK Institute of Engineering Sciences and Technology, Topi 23640, District Swabi, Khyber Pakhtunkhwa, Pakistan.",
+        "other_details": "Email: sherali@giki.edu.pk\nFax:0938-281032\nURL:http://www.giki.edu.pk"
+    },
+    {
+        "name": "GIFT UNIVERSITY",
+        "sector": "Private",
+        "city": "Gujranwala",
+        "address": "Sialkot Bypass, Gujranwala, Pakistan.",
+        "other_details": "Email: info@gift.edu.pk\nFax:92 55 3890266\nURL:http://www.gift.edu.pk"
+    },
+    {
+        "name": "Global Institute, Lahore [HEC-NOC SUSPENDED]",
+        "sector": "Private",
+        "city": "Lahore",
+        "address": "3-Aurangzeb Block, New Garden Town, Lahore.",
+        "other_details": "Email: info@global.edu.pk\nFax:+92-42-5717447\nURL:http://global.edu.pk/"
+    },
+    {
+        "name": "GOMAL UNIVERSITY",
+        "sector": "Public",
+        "city": "Dera Ismail Khan",
+        "address": "Indus HWY, DI Khan City, Dera Ismail Khan, Khyber Pakhtoonkhwa, Dera Ismail Khan, Pakistan",
+        "other_details": "Email: submit.gomalujr@gmail.com\nFax:+92 966 750057\nURL:http://www.gu.edu.pk/"
+    },
+    {
+        "name": "GOVERNMENT COLLEGE FOR WOMEN UNIVERSITY, SIALKOT",
+        "sector": "Public",
+        "city": "Sialkot",
+        "address": "Kutchehry Road, Sialkot Pakistan",
+        "other_details": "Email: info@gcwus.edu.pk\nFax:052-9250168\nURL:http://www.gcwus.edu.pk/"
+    },
+    {
+        "name": "GOVERNMENT COLLEGE UNIVERSITY",
+        "sector": "Public",
+        "city": "Faisalabad",
+        "address": "Kotwali Rd, Faisalabad 38000, Pakistan.",
+        "other_details": "Email: info@gcuf.edu.pk\nFax:(92)-041-9200671\nURL:http://www.gcuf.edu.pk"
+    },
+    {
+        "name": "GOVERNMENT COLLEGE UNIVERSITY, LAHORE",
+        "sector": "Public",
+        "city": "Lahore",
+        "address": "Near Nasir Bagh, Katchery Rd, Lahore 54000, Pakistan.",
+        "other_details": "Email: registrar@gcu.edu.pk\nFax:+92-42-99213337\nURL:http://www.gcu.edu.pk"
+    },
+    {
+        "name": "Government College Women University Faisalabad",
+        "sector": "Public",
+        "city": "Faisalabad",
+        "address": "Government College Women University, Shafique Road Faisalabad Zip Code 38000",
+        "other_details": "Email: info@gcwuf.edu.pk\nFax:+92-41-9220065\nURL:http://gcwuf.edu.pk/"
+    },
+    {
+        "name": "GOVERNMENT SADIQ COLLEGE WOMEN UNIVERSITY",
+        "sector": "Public",
+        "city": "Bahawalpur",
+        "address": "Government Sadiq College Women University, Bahawalpur.",
+        "other_details": "Email: info@gscwu.edu.pk\nFax:\nURL:https://www.gscwu.edu.pk/"
+    },
+    {
+        "name": "GREENWICH UNIVERSITY",
+        "sector": "Private",
+        "city": "Karachi",
+        "address": "DK-10, 38th Street, Darkshan, DHA, Phase 6, Karachi 75500.",
+        "other_details": "Email: gu@greenwich.edu.pk\nFax:(92)(21) 35851910\nURL:http://www.greenwich.edu.pk/"
+    },
+    {
+        "name": "HABIB UNIVERSITY",
+        "sector": "Private",
+        "city": "Karachi",
+        "address": "Habib University Foundation147, Block 7 & 8 Banglore Cooperative Housing SocietyTipu Sultan Road Karachi – 75350.",
+        "other_details": "Email: aamir.siddiqui@habib.edu.pk\nFax:\nURL:http://www.habib.edu.pk"
+    },
+    {
+        "name": "HAJVERY UNIVERSITY",
+        "sector": "Private",
+        "city": "Lahore",
+        "address": "43-52 Industrial Area Gulberg III, Lahore.",
+        "other_details": "Email: registrar@hup.edu.pk\nFax:042-35755564\nURL:http://www.hajvery.edu.pk"
+    },
+    {
+        "name": "HAMDARD UNIVERSITY",
+        "sector": "Private",
+        "city": "Karachi",
+        "address": "Madinat-al-Hikmah, Sharea Madinat al-Hikmah, Muhammad Bin Qasim Avenue, Karachi 74600.",
+        "other_details": "Email: info@hamdard.edu.pk\nFax:(92-21) 36440045\nURL:http://www.hamdard.edu.pk"
+    },
+    {
+        "name": "HAZARA UNIVERSITY",
+        "sector": "Public",
+        "city": "Mansehra",
+        "address": "DHODIAL MANSEHRA [NWFP]",
+        "other_details": "Email: registrar@hu.edu.pk\nFax:+92-997-530046\nURL:http://www.hu.edu.pk"
+    },
+    {
+        "name": "HITEC UNIVERSITY",
+        "sector": "Private",
+        "city": "Taxila",
+        "address": "Museum Road, Taxila Cantt",
+        "other_details": "Email: assistant.registrar@hitecuni.edu.pk\nFax:051-4908145\nURL:http://www.hitecuni.edu.pk"
+    },
+    {
+        "name": "Imperial College of Business Studies",
+        "sector": "Private",
+        "city": "Lahore",
+        "address": "Canal Bank Road Near Bahria Chowk, Lahore",
+        "other_details": "Email: admissions@imperial.edu.pk\nFax:\nURL:http://imperial.edu.pk/"
+    },
+    {
+        "name": "INDUS UNIVERSITY",
+        "sector": "Private",
+        "city": "Karachi",
+        "address": "ST-2D, Block-17, Adjacent National Stadium Gulshan-e Iqbal, Opp: Mushriq Centre, Karachi.",
+        "other_details": "Email: admission.site@indus.edu.pk\nFax:(92-21) 34985320\nURL:http://www.indus.edu.pk"
+    },
+    {
+        "name": "INDUS VALLEY SCHOOL OF ART & ARCHITECTURE",
+        "sector": "Private",
+        "city": "Karachi",
+        "address": "Street 33, Block 2, Scheme-5, Clifton, Karachi.75600",
+        "other_details": "Email: info@ivs.edu.pk\nFax:\nURL:http://www.indusvalley.edu.pk"
+    },
+    {
+        "name": "INFORMATION TECHNOLOGY UNIVERSITY OF THE PUNJAB",
+        "sector": "Public",
+        "city": "Lahore",
+        "address": "6th Floor, Arfa Software Technology Park, Ferozepur Road, Lahore",
+        "other_details": "Email: admission@itu.edu.pk\nFax:\nURL:http://www.itu.edu.pk"
+    },
+    {
+        "name": "INSTITUTE OF BUSINESS & TECHNOLOGY",
+        "sector": "Private",
+        "city": "Karachi",
+        "address": "Main Ibrahim Hydri Road, Korangi Creek, Karachi.",
+        "other_details": "Email: info@biztek.edu.pk\nFax:021-5092384\nURL:http://www.biztek.edu.pk"
+    },
+    {
+        "name": "INSTITUTE OF BUSINESS ADMINISTRATION",
+        "sector": "Public",
+        "city": "Karachi",
+        "address": "Plot # 68 & 88 Garden / Kayani Shaheed Road, Karachi - 74400 Pakistan",
+        "other_details": "Email: info@khi.iba.edu.pk\nFax:92-21-99261508\nURL:http://www.iba.edu.pk"
+    },
+    {
+        "name": "INSTITUTE OF BUSINESS MANAGEMENT",
+        "sector": "Private",
+        "city": "Karachi",
+        "address": "Korangi Creek, Karachi-75190, Pakistan.",
+        "other_details": "Email: mec@iobm.edu.pk\nFax:(+92-21)3509-0968\nURL:http://www.iobm.edu.pk"
+    },
+    {
+        "name": "INSTITUTE OF MANAGEMENT SCIENCES",
+        "sector": "Public",
+        "city": "Peshawar",
+        "address": "I-A, Sector E-5, Phase-VII, Hayatabad, Peshawar.",
+        "other_details": "Email: info@imsciences.edu.pk\nFax:091-5861026,091-9217\nURL:http://www.imsciences.edu.pk"
+    },
+    {
+        "name": "INSTITUTE OF MANAGEMENT SCIENCES, Lahore",
+        "sector": "Private",
+        "city": "Lahore",
+        "address": "23-E-III, Gulberg-III, 54660 Lahore, Pakistan",
+        "other_details": "Email: info@pakaims.edu.pk\nFax:\nURL:http://www.pakaims.edu.pk"
+    },
+    {
+        "name": "INSTITUTE OF SOUTHERN PUNJAB",
+        "sector": "Private",
+        "city": "Multan",
+        "address": "9-KM, Bosan Road, Multan, Pakistan",
+        "other_details": "Email: info@isp.edu.pk\nFax:+92-61-6522166\nURL:http://isp.edu.pk/"
+    },
+    {
+        "name": "INSTITUTE OF SPACE TECHNOLOGY",
+        "sector": "Public",
+        "city": "Islamabad",
+        "address": "Institute of Space Technology , P.O. Box 2750 Islamabad 44000 , Pakistan",
+        "other_details": "Email: info@ist.edu.pk\nFax:+92-51-9273310\nURL:http://www.ist.edu.pk/"
+    },
+    {
+        "name": "INTERNATIONAL ISLAMIC UNIVERSITY",
+        "sector": "Public",
+        "city": "Islamabad",
+        "address": "Sector H-10، Islamabad 44000, Pakistan",
+        "other_details": "Email: khalidmraja@iiu.edu.pk\nFax:\nURL:http://www.iiu.edu.pk/"
+    },
+    {
+        "name": "IQRA NATIONAL UNIVERSITY",
+        "sector": "Private",
+        "city": "Peshawar",
+        "address": "Phase-II, Hayatabad Peshawa",
+        "other_details": "Email: info@inu.edu.pk\nFax:5822984\nURL:http://www.inu.edu.pk"
+    },
+    {
+        "name": "IQRA UNIVERSITY",
+        "sector": "Private",
+        "city": "Karachi",
+        "address": "Defence View, Shaheed-e-Millat Road, (Ext), Karachi.",
+        "other_details": "Email: registrar@iqra.edu.pk\nFax:\nURL:http://www.iqra.edu.pk"
+    },
+    {
+        "name": "ISLAMIA COLLEGE UNIVERSITY",
+        "sector": "Public",
+        "city": "Peshawar",
+        "address": "Jamrod Road, University Campus,Peshawar.",
+        "other_details": "Email: registrar@icp.edu.pk\nFax:091-9222090\nURL:http://www.icp.edu.pk"
+    },
+    {
+        "name": "ISLAMIA UNIVERSITY",
+        "sector": "Public",
+        "city": "Bahawalpur",
+        "address": "The Islamia University of Bahawalpur Pakistan.",
+        "other_details": "Email: info@iub.edu.pk\nFax:92 - 62 - 9250335\nURL:http://www.iub.edu.pk"
+    },
+    {
+        "name": "ISRA UNIVERSITY",
+        "sector": "Private",
+        "city": "Hyderabad",
+        "address": "Isra University, Hala Road, Hyderabad Sindh, Pakistan",
+        "other_details": "Email: admissions@isra.edu.pk\nFax:(92 22) 2030180 & 20\nURL:http://www.isra.edu.pk"
+    },
+    {
+        "name": "JINNAH SINDH MEDICAL UNIVERSITY",
+        "sector": "Public",
+        "city": "Karachi",
+        "address": "Rafique H.J Shaheed Road, Karachi.",
+        "other_details": "Email: admissions@jsmu.edu.pk\nFax:99201372\nURL:http://www.jsmu.edu.pk"
+    },
+    {
+        "name": "JINNAH UNIVERSITY FOR WOMEN",
+        "sector": "Private",
+        "city": "Karachi",
+        "address": "Jinnah University for Women, 5-C, Nazimabad, Karachi 74600.",
+        "other_details": "Email: info@juw.edu.pk\nFax:(92-21) 6620614\nURL:http://www.juw.edu.pk"
+    },
+    {
+        "name": "KARACHI INSTITUTE OF ECONOMICS & TECHNOLOGY",
+        "sector": "Private",
+        "city": "Karachi",
+        "address": "PAF-KIET Main Campus Korangi Creek, Karachi 75190",
+        "other_details": "Email: registrar@pafkiet.edu.pk\nFax:(9221) 35091118\nURL:http://www.pafkiet.edu.pk"
+    },
+    {
+        "name": "KARACHI SCHOOL FOR BUSINESS & LEADERSHIP",
+        "sector": "Private",
+        "city": "Karachi",
+        "address": "National Stadium Road Opp. Liaquat National Hospital,Karachi – 74800.",
+        "other_details": "Email: info@ksbl.edu.pk\nFax:+92 (21) 38771999\nURL:http://www.ksbl.edu.pk"
+    },
+    {
+        "name": "KARAKURUM INTERNATIONAL UNIVERSITY",
+        "sector": "Public",
+        "city": "Gilgit",
+        "address": "Karakoram International University, Main Campus University Road Gilgit (15100) Pakistan",
+        "other_details": "Email: info@kiu.edu.pk\nFax:051-9266853\nURL:http://www.kiu.edu.pk"
+    },
+    {
+        "name": "KASB INSTITUTE OF TECHNOLOGY",
+        "sector": "Private",
+        "city": "Karachi",
+        "address": "84-B, S.M.C.H.S, Off Shahrah-e-Faisal, Karachi-74400, Pakistan.",
+        "other_details": "Email: info@kasbit.edu.pk\nFax:4525525\nURL:http://www.kasbit.edu.pk"
+    },
+    {
+        "name": "KHAWAJA FREED UNIVERSITY OF ENGINEERING & INFORMATION TECHNOLOGY",
+        "sector": "Public",
+        "city": "Rahim Yar Khan",
+        "address": "Abu Dhabi Road, Rahim Yar Khan",
+        "other_details": "Email: info@kfueit.edu.pk\nFax:\nURL:http://www.kfueit.edu.pk/"
+    },
+    {
+        "name": "Khushal Khan Khattak University",
+        "sector": "Public",
+        "city": "testcity",
+        "address": "Opposite Tableghi markaz, Karak.",
+        "other_details": "Email: vc@kkkuk.edu.pk\nFax: +92-927-291035\nURL:http://www.kkkuk.edu.pk/"
+    },
+    {
+        "name": "KHYBER MEDICAL UNIVERSITY",
+        "sector": "Public",
+        "city": "Peshawar",
+        "address": "PDA building Block-4 Phase-5 Hayatabad Peshawar",
+        "other_details": "Email: info@kmu.edu.pk\nFax:+92919217704\nURL:http://www.kmu.edu.pk"
+    },
+    {
+        "name": "KHYBER PAKHTUNKHWA AGRICULTURAL UNIVERSITY",
+        "sector": "Public",
+        "city": "Peshawar",
+        "address": "KHYBER PAKHTUNKHWA AGRICULTURAL UNIVERSITY,University Campus, Peshawar",
+        "other_details": "Email: riazadil@aup.edu.pk\nFax:+ 92 91 9221262\nURL:http://www.aup.edu.pk"
+    },
+    {
+        "name": "KING EDWARD MEDICAL UNIVERSITY",
+        "sector": "Public",
+        "city": "Lahore",
+        "address": "Nelagumbad near New Anarkali, Lahore.",
+        "other_details": "Email: info@kemu.edu.pk\nFax:\nURL:http://www.kemu.edu.pk"
+    },
+    {
+        "name": "KINNAIRD COLLEGE FOR WOMEN",
+        "sector": "Public",
+        "city": "Lahore",
+        "address": "Kinnaird College for Women 93- Jail Road, Lahore",
+        "other_details": "Email: info@kinnaird.edu.pk\nFax:+92 42 9920 3788\nURL:http://www.kinnaird.edu.pk"
+    },
+    {
+        "name": "KOHAT UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+        "sector": "Public",
+        "city": "Kohat",
+        "address": "Bannu Rd, Kohat 26000, Khyber Pakhtunkhwa.",
+        "other_details": "Email: registrar@kust.edu.pk\nFax:\nURL:http://www.kust.edu.pk"
+    },
+    {
+        "name": "LAHORE COLLEGE FOR WOMEN UNIVERSITY",
+        "sector": "Public",
+        "city": "Lahore",
+        "address": "Lahore College for Women University, Jail Road, Lahore.",
+        "other_details": "Email: registrar@lcwu.edu.pk\nFax:+92-42-99203077\nURL:http://www.lcwu.edu.pk"
+    },
+    {
+        "name": "LAHORE GARRISON UNIVERSITY",
+        "sector": "Private",
+        "city": "Lahore",
+        "address": "Main Campus, Sector C, DHA Phase-VI, Lahore.",
+        "other_details": "Email: info@lgu.edu.pk\nFax:92 42 36603090\nURL:http://lgu.edu.pk/"
+    },
+    {
+        "name": "LAHORE LEADS UNIVERSITY",
+        "sector": "Private",
+        "city": "Lahore",
+        "address": "5-Tipu Block, New Garden Town, Lahore.",
+        "other_details": "Email: admission@leads.edu.pk\nFax:\nURL:http://www.leads.edu.pk"
+    },
+    {
+        "name": "LAHORE SCHOOL OF ECONOMICS",
+        "sector": "Private",
+        "city": "Lahore",
+        "address": "Intersection Main Boulevard Phase VI DHA, Burki 53200, Lahore.",
+        "other_details": "Email: qaisar@lahoreschool.edu.pk\nFax:+ 92 42 36560905\nURL:http://www.lahoreschoolofeconomics.edu.pk"
+    },
+    {
+        "name": "LAHORE UNIVERSITY OF MANAGEMENT SCIENCES",
+        "sector": "Private",
+        "city": "Lahore",
+        "address": "D.H.A, Lahore Cantt. 54792 Lahore, Pakistan.",
+        "other_details": "Email: mahjabeen.ahmad@lums.edu.pk\nFax:+92 42 3572 5048\nURL:http://www.lums.edu.pk"
+    },
+    {
+        "name": "LASBELA UNIVERSITY OF AGRICULTURE, WATER & MARINE SCIENCES",
+        "sector": "Public",
+        "city": "Lasbela",
+        "address": "Lasbela University of Agriculture, Water and Marine Sciences, Uthal, District Lasbela",
+        "other_details": "Email: pvc@luawms.edu.pk\nFax:0853-610294\nURL:http://www.luawms.edu.pk/"
+    },
+    {
+        "name": "LIAQUAT UNIVERSITY OF MEDICAL & HEALTH SCIENCES",
+        "sector": "Public",
+        "city": "Jamshoro",
+        "address": "Liaquat University of Medical & Health Sciences Jamshoro, Sindh - Pakistan",
+        "other_details": "Email: registrar@lumhs.edu.pk\nFax:+92 22 9213306\nURL:http://www.lumhs.edu.pk"
+    },
+    {
+        "name": "MEHRAN UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+        "sector": "Public",
+        "city": "Jamshoro",
+        "address": "Indus Highway, Jamshoro 76062, Pakistan.",
+        "other_details": "Email: registrar@admin.muet.edu.pk\nFax:+92 (22) 2772281\nURL:http://www.muet.edu.pk"
+    },
+    {
+        "name": "MINHAJ UNIVERSITY",
+        "sector": "Private",
+        "city": "Lahore",
+        "address": "Near Hamdard Chowk, Township, Lahore.",
+        "other_details": "Email: info@mul.edu.pk\nFax:042-35116779\nURL:http://www.mul.edu.pk"
+    },
+    {
+        "name": "MIRPUR UNIVERSITY OF SCIENCE & TECHNOLOGY",
+        "sector": "Public",
+        "city": "Mirpur",
+        "address": "Mirpur University of Science and Technology (MUST), Admin Block, Allama Iqbal Road, Sector B-3, Mirpur.",
+        "other_details": "Email: info@must.edu.pk\nFax:+92-5827-961040 / 42\nURL:http://www.must.edu.pk"
+    },
+    {
+        "name": "Mohi-ud-Din Islamic University",
+        "sector": "Private",
+        "city": "Muzzaffarabad",
+        "address": "Mohi-ud-Din Islamic University, Nerian Sharif AJ&K.",
+        "other_details": "Email: info@miu.edu.pk\nFax:+92-5827-468777\nURL:http://miu.edu.pk/"
+    },
+    {
+        "name": "MUHAMMAD ALI JINNAH UNIVERSITY",
+        "sector": "Private",
+        "city": "Karachi",
+        "address": "22-E, Block-6, PECHS, Karachi 75400",
+        "other_details": "Email: info@jinnah.edu\nFax:+92-21-3431-1327\nURL:http://www.jinnah.edu"
+    },
+    {
+        "name": "MUHAMMAD NAWAZ SHAREEF UNIVERSITY OF AGRICULTURE",
+        "sector": "Public",
+        "city": "Multan",
+        "address": "Old Shujaabad Road, Chungi No. 21, Sui Gas road, Multan",
+        "other_details": "Email: info@mnsuam.edu.pk\nFax:+92 (61) 920 1680\nURL:http://www.mnsuam.edu.pk"
+    },
+    {
+        "name": "MUHAMMAD NAWAZ SHARIF UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+        "sector": "Public",
+        "city": "Multan",
+        "address": "GCT, Old Bahwalpur Road, Multan.",
+        "other_details": "Email: info@mnsuet.edu.pk\nFax:\nURL:http://www.mnsuet.edu.pk/"
+    },
+    {
+        "name": "MUSLIM YOUTH UNIVERSITY",
+        "sector": "Private",
+        "city": "Islamabad",
+        "address": "Muslim Youth University. PO Box 21177 G-10, subsector 4 (G-10/4) Islamabad",
+        "other_details": "Email: contact@myu.edu.pk\nFax:(051) 8733219\nURL:http://myu.edu.pk/"
+    },
+    {
+        "name": "NATIONAL COLLEGE OF ARTS",
+        "sector": "Public",
+        "city": "Lahore",
+        "address": "4, Shahrah-E-Quaid-E-Azam, Lahore,Pakistan",
+        "other_details": "Email: info@nca.edu.pk\nFax:+92 42 99210500\nURL:http://www.nca.edu.pk"
+    },
+    {
+        "name": "NATIONAL COLLEGE OF BUSINESS ADMINISTRATION & ECONOMICS",
+        "sector": "Private",
+        "city": "Lahore",
+        "address": "National College of Business Administration & Economics, 40-E1, Gulberg III, Lahore 54660, Pakistan",
+        "other_details": "Email: admission@ncbae.edu.pk\nFax:+92 (42) 3575-2547\nURL:http://www.ncbae.edu.pk"
+    },
+    {
+        "name": "NATIONAL DEFENSE UNIVERSITY",
+        "sector": "Public",
+        "city": "Islamabad",
+        "address": "Sector E-9, Islamabad",
+        "other_details": "Email: gso1trg@ndu.edu.pk\nFax:\nURL:http://www.ndu.edu.pk/"
+    },
+    {
+        "name": "NATIONAL TEXTILE UNIVERSITY",
+        "sector": "Public",
+        "city": "Faisalabad",
+        "address": "National Textile University: Sheikhupura Road, Faisalabad 37610, Pakistan",
+        "other_details": "Email: info@ntu.edu.pk\nFax:92 (041) 9230098\nURL:http://www.ntu.edu.pk"
+    },
+    {
+        "name": "NATIONAL UNIVERSITY OF COMPUTER & EMERGING SCIENCES (FAST)",
+        "sector": "Private",
+        "city": "Islamabad",
+        "address": "A.K Brohi Road , Sector H-11/4, Islamabad.",
+        "other_details": "Email: admissions@nu.edu.pk\nFax: (051) 410 0619\nURL:http://www.nu.edu.pk/"
+    },
+    {
+        "name": "NATIONAL UNIVERSITY OF MEDICAL SCIENCES",
+        "sector": "Public",
+        "city": "Rawalpindi",
+        "address": "National University of Medical Sciences, The Mall, Rawalpindi, Pakistan.",
+        "other_details": "Email: info@numspak.edu.pk\nFax:+92-51-9270677\nURL:http://numspak.edu.pk/"
+    },
+    {
+        "name": "NATIONAL UNIVERSITY OF MODERN LANGUAGES (NUML)",
+        "sector": "Public",
+        "city": "Islamabad",
+        "address": "National University of Modern Languages H-9 Islamabad ,Pakistan.",
+        "other_details": "Email: info@numl.edu.pk\nFax:+92-51-9258655\nURL:http://www.numl.edu.pk/"
+    },
+    {
+        "name": "NATIONAL UNIVERSITY OF SCIENCES & TECHNOLOGY",
+        "sector": "Public",
+        "city": "Islamabad",
+        "address": "National University of Sciences and Technology. NUST Campus, H-12, Islamabad, Pakistan.",
+        "other_details": "Email: hrm@nust.edu.pk\nFax:051-90851332\nURL:http://www.nust.edu.pk/"
+    },
+    {
+        "name": "NAZEER HUSSAIN UNIVERSITY",
+        "sector": "Private",
+        "city": "Karachi",
+        "address": "Address: ST-2 Block-4, Federal B Area Near Karimabad Karachi.",
+        "other_details": "Email: info@nhu.edu.pk\nFax:92 21 36362045\nURL:http://www.nhu.edu.pk/"
+    },
+    {
+        "name": "NED UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+        "sector": "Public",
+        "city": "Karachi",
+        "address": "NED University of Engineering & Technology University Road, Karachi - 75270, Pakistan",
+        "other_details": "Email: registrar@neduet.edu.pk\nFax:(92-21) 99261255\nURL:http://www.neduet.edu.pk"
+    },
+    {
+        "name": "NEWPORT INSTITUTE OF COMMUNICATIONS & ECONOMICS",
+        "sector": "Private",
+        "city": "Karachi",
+        "address": "40-L, PECHS Block-6, Karachi.",
+        "other_details": "Email: info@newports.edu.pk\nFax:+92-21-4541089\nURL:http://www.newports.edu.pk"
+    },
+    {
+        "name": "NFC INSTITUTE OF ENGINEERING & TECHNOLOGY",
+        "sector": "Public",
+        "city": "Multan",
+        "address": "NFC Institute of Engineering and Technology, Opposite Pak Arab Fertilizers, Khanewal Road, Multan, Pakistan",
+        "other_details": "Email: info@nfciet.edu.pk\nFax:+ 92 61 9220018\nURL:http://www.nfciet.edu.pk"
+    },
+    {
+        "name": "NORTHERN UNIVERSITY NOWSHERA",
+        "sector": "Private",
+        "city": "Nowshera",
+        "address": "The Northern University (Main Campus), Wattar Walai Ziarat, Kaka Sahib Road Nowshera, KPK, PK",
+        "other_details": "Email: info@northern.edu.pk\nFax:\nURL:http://www.northern.edu.pk"
+    },
+    {
+        "name": "NUR INTERNATIONAL UNIVERSITY",
+        "sector": "Private",
+        "city": "Lahore",
+        "address": "11/I-B, Model Town, Lahore – Pakistan",
+        "other_details": "Email: info@niu.edu.pk\nFax:042-37421993\nURL:http://www.niu.edu.pk"
+    },
+    {
+        "name": "PAKISTAN INSTITUTE OF DEVELOPMENT ECONOMICS (PIDE)",
+        "sector": "Public",
+        "city": "Islamabad",
+        "address": "Pakistan Institute of Development Economics (PIDE), Quaid-i-Azam University Campus, P.O. Box. 1091, Islamabad, 44000, Pakistan.",
+        "other_details": "Email: registrar@pide.org.pk\nFax:+92 51 9248065\nURL:http://www.pide.org.pk/"
+    },
+    {
+        "name": "PAKISTAN INSTITUTE OF ENGINEERING & APPLIED SCIENCES",
+        "sector": "Public",
+        "city": "Islamabad",
+        "address": "Nilore, Islamabad, Pakistan.",
+        "other_details": "Email: registrar@pieas.edu.pk\nFax:+92 51 924 8600\nURL:http://www.pieas.edu.pk/"
+    },
+    {
+        "name": "PAKISTAN INSTITUTE OF FASHION & DESIGN",
+        "sector": "Public",
+        "city": "Lahore",
+        "address": "51-JIII Joher Town. Lahore , P.O.Box 542782 Pakistan",
+        "other_details": "Email: info@pifd.edu.pk\nFax:042-99232966\nURL:http://www.pifd.edu.pk"
+    },
+    {
+        "name": "Pakistan Military Academy",
+        "sector": "Public",
+        "city": "Abbottabad",
+        "address": "Kakul Road, Abbottabad Pakistan",
+        "other_details": "Email: missing@pma.edu.pk\nFax:\nURL:http://www.pma.edu.pk"
+    },
+    {
+        "name": "PAKISTAN NAVAL ACADEMY",
+        "sector": "Public",
+        "city": "Karachi",
+        "address": "Pakistan Naval Academy Karachi, Pakistan",
+        "other_details": "Email: email@paknavy.gov.pk\nFax:\nURL:http://www.paknavy.gov.pk"
+    },
+    {
+        "name": "PEOPLES UNIVERSITY OF MEDICAL & HEALTH SCIENCES FOR WOMEN",
+        "sector": "Public",
+        "city": "Nawabshah",
+        "address": "Peoples University of Medical & Health Sciences for Women, Nawabshah 67480 (SBA).",
+        "other_details": "Email: registrar@pumhs.edu.pk\nFax:+92-244-9370261\nURL:http://www.pumhs.edu.pk"
+    },
+    {
+        "name": "PIR MEHR ALI SHAH ARID AGRICULTURE UNIVERSITY",
+        "sector": "Public",
+        "city": "Rawalpindi",
+        "address": "PMAS-Arid Agriculture University Rawalpindi, Shamsabad, Muree Road Rawalpindi - Pakistan.",
+        "other_details": "Email: registrar@uaar.edu.pk\nFax:+92-051-9290459\nURL:http://www.uaar.edu.pk"
+    },
+    {
+        "name": "Preston Institute of Management, Science & Technology (Banned for admissions w.e.f 10-06-2017)",
+        "sector": "Private",
+        "city": "Karachi",
+        "address": "177/2, IEP Building, Karachi, Pakistan",
+        "other_details": "Email: admissions@pimsat-khi.edu.pk\nFax:\nURL:https://pimsat-khi.edu.pk"
+    },
+    {
+        "name": "PRESTON UNIVERSITY",
+        "sector": "Private",
+        "city": "Kohat",
+        "address": "Sector 10 Street 3 KDA Kohat, Kohat, Pakistan, Islamabad Campus: Plot No 85, Street 3, Sector H-8/1,Islamabad.",
+        "other_details": "Email: kohat@preston.edu.pk\nFax:\nURL:http://www.preston.edu.pk"
+    },
+    {
+        "name": "PRESTON UNIVERSITY",
+        "sector": "Private",
+        "city": "Karachi",
+        "address": "Main Campus:15, Banglore Town, Shahrah-e-Faisal,Karachi.",
+        "other_details": "Email: karachi@preston.edu.pk\nFax:021-34525881\nURL:http://www.preston.edu.pk"
+    },
+    {
+        "name": "QARSHI UNIVERSITY",
+        "sector": "Private",
+        "city": "Lahore",
+        "address": "Qarshi University 8-Km Thokar Niaz baig, Canal Bank Road, Opposite lzmir Town, Lahore- Pakistan. 54000",
+        "other_details": "Email: info@qu.edu.pk\nFax:\nURL:http://www.qu.edu.pk"
+    },
+    {
+        "name": "QUAID-E-AWAM UNIVERSITY OF ENGINEERING, SCIENCES & TECHNOLOGY",
+        "sector": "Public",
+        "city": "Nawabshah",
+        "address": "Quaid-e-Awam University Sakrand Road, Nawabshah, Sindh, Pakistan",
+        "other_details": "Email: registrar@quest.edu.pk\nFax:92-244-9370367, 9370\nURL:http://www.quest.edu.pk"
+    },
+    {
+        "name": "QUAID-I-AZAM UNIVERSITY",
+        "sector": "Public",
+        "city": "Islamabad",
+        "address": "Quaid-i-Azam University Islamabad, 45320, Pakistan.",
+        "other_details": "Email: info@qau.edu.pk\nFax:+92-51-90644110\nURL:https://www.qau.edu.pk/"
+    },
+    {
+        "name": "QURTABA UNIVERSITY OF SCIENCE & INFORMATION TECHNOLOGY",
+        "sector": "Private",
+        "city": "Dera Ismail Khan",
+        "address": "Sheikh Yusuf Road, Dera Ismail Khan,",
+        "other_details": "Email: dik@qurtuba.edu.pk\nFax:+92 (966) - 730047\nURL:http://www.qurtuba.edu.pk"
+    },
+    {
+        "name": "RIPHAH INTERNATIONAL UNIVERSITY",
+        "sector": "Private",
+        "city": "Islamabad",
+        "address": "Sector I-14, Hajj Complex, Islamabad.",
+        "other_details": "Email: admissions@riphah.edu.pk\nFax:+92 (51) 831 3141\nURL:https://www.riphah.edu.pk/"
+    },
+    {
+        "name": "SARDAR BAHADUR KHAN WOMEN UNIVERSITY",
+        "sector": "Public",
+        "city": "Quetta",
+        "address": "SBK Women's University, Brewery Road Quetta, Balochistan,Pakistan",
+        "other_details": "Email: vc@sbkwu.edu.pk\nFax:+92(081)9213308\nURL:http://www.sbkwu.edu.pk"
+    },
+    {
+        "name": "SARHAD UNIVERSITY OF SCIENCE & INFORMATION TECHNOLOGY",
+        "sector": "Private",
+        "city": "Peshawar",
+        "address": "Sarhad University Landi Akhun Ahmad, Hayatabad Link. Ring Road, Peshawar, Pakistan",
+        "other_details": "Email: registrar@suit.edu.pk\nFax:\nURL:http://www.suit.edu.pk"
+    },
+    {
+        "name": "SHAH ABDUL LATIF UNIVERSITY",
+        "sector": "Public",
+        "city": "Khairpur",
+        "address": "Old National Highway, Khairpur Mir's, 66020 Sindh, Pakistan",
+        "other_details": "Email: info@salu.edu.pk\nFax:92-243-9280-060\nURL:http://www.salu.edu.pk"
+    },
+    {
+        "name": "SHAHEED BENAZIR BHUTTO CITY UNIVERSITY",
+        "sector": "Private",
+        "city": "Karachi",
+        "address": "Plot F-201 1st floor & 2nd Floor, Near Site Philips Chowrangi, Labour Square, Site Police Station, Binoria Restaurant, Karachi.",
+        "other_details": "Email: info@sbbcu.edu.pk\nFax:\nURL:http://www.sbbcu.edu.pk"
+    },
+    {
+        "name": "SHAHEED BENAZIR BHUTTO DEWAN UNIVERSITY",
+        "sector": "Private",
+        "city": "Karachi",
+        "address": "Plot # 30-A/1, Sector 23, Korangi Industrial Area, Karachi, 74900-Pakistan.",
+        "other_details": "Email: info@sbbdewanuniversity.edu.pk\nFax:+92)-(021)-35115017\nURL:http://www.sbbdewanuniversity.edu.pk/"
+    },
+    {
+        "name": "Shaheed Benazir Bhutto University",
+        "sector": "Public",
+        "city": "Amilcar",
+        "address": "Sheringal, Upper Dir, Khyber Pakhtunkhwa",
+        "other_details": "Email: registrar@sbbu.edu.pk\nFax:+92-944-885805\nURL:http://www.sbbu.edu.pk"
+    },
+    {
+        "name": "SHAHEED BENAZIR BHUTTO UNIVERSITY OF VETERINARY & ANIMAL SCIENCES",
+        "sector": "Public",
+        "city": "Nawabshah",
+        "address": "Main Nawabshah road, Sakrand, District Shaheed Benazirabad",
+        "other_details": "Email: info@sbbuvas.edu.pk\nFax:0244 322151\nURL:http://www.sbbuvas.edu.pk"
+    },
+    {
+        "name": "SHAHEED BENAZIR BHUTTO UNIVERSITY, SHAHEED BENAZIRABAD",
+        "sector": "Public",
+        "city": "Nawabshah",
+        "address": "SHAHEED BENAZIR BHUTTO UNIVERSITY, SHAHEED BENAZIRABAD, Pakistan 67450",
+        "other_details": "Email: info@sbbusba.edu.pk\nFax:+92-244-9370521\nURL:http://www.sbbusba.edu.pk/"
+    },
+    {
+        "name": "SHAHEED BENAZIR BHUTTO WOMEN UNIVERSITY",
+        "sector": "Public",
+        "city": "Peshawar",
+        "address": "Shaheed Benazir Bhutto Women University, Opposite Fort Balahisar near LRH, Peshawar Pakistan.",
+        "other_details": "Email: info@sbbwu.edu.pk\nFax:+92-91-9224707\nURL:http://www.sbbwu.edu.pk"
+    },
+    {
+        "name": "SHAHEED MOHTARMA BENAZIR BHUTTO MEDICAL UNIVERSITY",
+        "sector": "Public",
+        "city": "Larkana",
+        "address": "Shaheed Mohtarma Benazir Bhutto Medical University Larkana, Sindh, Pakistan",
+        "other_details": "Email: registrar@smbbmu.edu.pk\nFax:+92-74-9410910, +92-\nURL:http://www.smbbmu.edu.pk"
+    },
+    {
+        "name": "SHAHEED ZULFIKAR ALI BHUTTO INSTITUTE OF SCIENCE & TECHNOLOGY",
+        "sector": "Private",
+        "city": "Karachi",
+        "address": "SZABIST 90 and 100 Clifton, Karachi 75600, Pakistan",
+        "other_details": "Email: info@szabist.edu.pk\nFax: (92-21) 35830446\nURL:http://www.szabist.edu.pk"
+    },
+    {
+        "name": "SHAHEED ZULFIQAR ALI BHUTTO MEDICAL UNIVERSITY",
+        "sector": "Public",
+        "city": "Islamabad",
+        "address": "Shaheed Zulfiqar Ali Bhutto Medical University (SZABMU), PIMS, G-8/3, Islamabad, 44000",
+        "other_details": "Email: info@szabmu.edu.pk\nFax:(92) (51) (9107) 687\nURL:http://www.szabmu.edu.pk/"
+    },
+    {
+        "name": "SHAHEED ZULFIQAR ALI BHUTTO UNIVERSITY OF LAW",
+        "sector": "Public",
+        "city": "Karachi",
+        "address": "Chaudry Khaliq-uz-Zaman Road, Near Lilly Bridge, Clifton, Karachi.",
+        "other_details": "Email: info@szabul.edu.pk\nFax:021-99206425\nURL:http://www.szabul.edu.pk"
+    },
+    {
+        "name": "SHIFA TAMEER-E-MILLAT UNIVERSITY",
+        "sector": "Private",
+        "city": "Islamabad",
+        "address": "Shifa Tameer-e-Millat University Pitras Bukhari Road, H-8/4 Islamabad 44000 Pakistan",
+        "other_details": "Email: info@stmu.edu.pk\nFax:+92-51-486-3264\nURL:http://www.stmu.edu.pk/"
+    },
+    {
+        "name": "Shuhada-e-Army Public School University of Technology, Nowshera",
+        "sector": "Public",
+        "city": "Nowshera",
+        "address": "Ex-Adamjee Paper and Board Mills, Amangarh, Nowshera.",
+        "other_details": "Email: missing@uotnowshera.edu.pk\nFax:\nURL:http://uotnowshera.edu.pk/"
+    },
+    {
+        "name": "SINDH AGRICULTURE UNIVERSITY",
+        "sector": "Public",
+        "city": "Hyderabad",
+        "address": "Sindh Agriculture Univeristy, Tandojam Hyderabad, Sindh Pakistan Postal Code: 70060",
+        "other_details": "Email: info@sau.edu.pk\nFax:92-22-2765300\nURL:http://www.sau.edu.pk"
+    },
+    {
+        "name": "SINDH INSTITUTE OF MANAGEMENT & TECHNOLOGY",
+        "sector": "Private",
+        "city": "Karachi",
+        "address": "ST-25, BLOCK 14, GULISTAN-E-JOHAR, KARACHI",
+        "other_details": "Email: info@simt.edu.pk\nFax:\nURL:http://www.simat.edu.pk"
+    },
+    {
+        "name": "SINDH INSTITUTE OF MEDICAL SCIENCES",
+        "sector": "Private",
+        "city": "Karachi",
+        "address": "Civil Hospital Karachi 74200, Pakistan",
+        "other_details": "Email: info@siut.org\nFax: (92-21) 99215469 ,\nURL:http://www.siut.org"
+    },
+    {
+        "name": "SINDH MADRESATUL ISLAM UNIVERSITY",
+        "sector": "Public",
+        "city": "Karachi",
+        "address": "Aiwan-e-Tijarat Road, Karachi-74000, Pakistan.",
+        "other_details": "Email: info@smiu.edu.pk\nFax:+92 21 99217504\nURL:http://www.smiu.edu.pk"
+    },
+    {
+        "name": "SIR SYED UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+        "sector": "Private",
+        "city": "Karachi",
+        "address": "Main University Road, Karachi 75300, Pakistan",
+        "other_details": "Email: info@ssuet.edu.pk\nFax:+92 21 3498238\nURL:http://www.ssuet.edu.pk"
+    },
+    {
+        "name": "SUKKUR INSTITUTE OF BUSINESS ADMINISTRATION",
+        "sector": "Public",
+        "city": "Sukkur",
+        "address": "Main Campus, Airport Road, Sukkur",
+        "other_details": "Email: shoukat.abbasi@iba-suk.edu.pk\nFax:92-71-5804419\nURL:http://www.iba-suk.edu.pk"
+    },
+    {
+        "name": "TEXTILE INSTITUTE OF PAKISTAN",
+        "sector": "Private",
+        "city": "Karachi",
+        "address": "203, Aamir Trade Centre Plot No. 233/1-A, Block 2, PECHS, Shara-e-Quaideen, Karachi. Pakistan.",
+        "other_details": "Email: info@tip.edu.pk\nFax:(92-21) 34533525\nURL:http://tip.edu.pk/"
+    },
+    {
+        "name": "THE SUPERIOR COLLEGE",
+        "sector": "Private",
+        "city": "Lahore",
+        "address": "Main Raiwind Road, Lahore",
+        "other_details": "Email: info@superior.edu.pk\nFax:\nURL:http://www.superior.edu.pk"
+    },
+    {
+        "name": "THE UNIVERSITY OF FAISALABAD",
+        "sector": "Private",
+        "city": "Faisalabad",
+        "address": "Sargodha Road, University Town, Faisalabad",
+        "other_details": "Email: info@tuf.edu.pk\nFax:+92 041 8868220\nURL:http://www.tuf.edu.pk"
+    },
+    {
+        "name": "THE WOMEN UNIVERSITY",
+        "sector": "Public",
+        "city": "Multan",
+        "address": "The Women University Multan Address: Kutchery Campus, L.M.Q. Road, Multan",
+        "other_details": "Email: info@wum.edu.pk\nFax:061-4500950\nURL:http://www.wum.edu.pk"
+    },
+    {
+        "name": "UNIVERSITY OF AGRICULTURE",
+        "sector": "Public",
+        "city": "Faisalabad",
+        "address": "University of Agriculture University Main Rd، Faisalabad, Pakistan.",
+        "other_details": "Email: contact_us@uaf.edu.pk\nFax: +92 41 9200764\nURL:http://www.uaf.edu.pk"
+    },
+    {
+        "name": "UNIVERSITY OF AZAD JAMMU & KASHMIR",
+        "sector": "Public",
+        "city": "Muzaffarabad",
+        "address": "University of Azad Jammu & Kashmir, Administration Block, Challa Campus Muzaffarabad, Azad Kashmir",
+        "other_details": "Email: info@ajku.edu.pk\nFax:\nURL:http://www.ajku.edu.pk"
+    },
+    {
+        "name": "UNIVERSITY OF BALOCHISTAN",
+        "sector": "Public",
+        "city": "Quetta",
+        "address": "University of Balochistan, Sariab Road Quetta.",
+        "other_details": "Email: registrar@um.uob.edu.pk\nFax:081-9211-277\nURL:http://www.uob.edu.pk"
+    },
+    {
+        "name": "University of Baltistan, Skardu",
+        "sector": "Public",
+        "city": "Skardu",
+        "address": "University of Baltistan, Skardu",
+        "other_details": "Email: info@kiu.edu.pk\nFax:05815-960256\nURL:https://www.kiu.edu.pk/page/skardu-campus"
+    },
+    {
+        "name": "UNIVERSITY OF CENTRAL PUNJAB",
+        "sector": "Private",
+        "city": "Lahore",
+        "address": "Khayaban-e-Jinnah Road, Johar Town, Lahore.",
+        "other_details": "Email: info@ucp.edu.pk\nFax:+92-42-35954892\nURL:http://www.ucp.edu.pk"
+    },
+    {
+        "name": "UNIVERSITY OF EDUCATION",
+        "sector": "Public",
+        "city": "Lahore",
+        "address": "College Road, Township, Lahore.",
+        "other_details": "Email: registrar@ue.edu.pk\nFax:\nURL:http://www.ue.edu.pk"
+    },
+    {
+        "name": "UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+        "sector": "Public",
+        "city": "Peshawar",
+        "address": "University of Engineering & Technology, Peshawar, Pakistan",
+        "other_details": "Email: registrar@uetpeshawar.edu.pk\nFax:(+92-91) 9216663\nURL:http://www.uetpeshawar.edu.pk"
+    },
+    {
+        "name": "UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+        "sector": "Public",
+        "city": "Lahore",
+        "address": "UNIVERSITY OF ENGINEERING & TECHNOLOGY, G.T. Rd, Lahore 54890, Pakistan",
+        "other_details": "Email: registrar@uet.edu.pk\nFax:\nURL:http://www.uet.edu.pk"
+    },
+    {
+        "name": "UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+        "sector": "Public",
+        "city": "Taxila",
+        "address": "University of Engg. & Technology (UET) Taxila.",
+        "other_details": "Email: nfo@uettaxila.edu.pk\nFax:+92 51-9047-420\nURL:http://www.uettaxila.edu.pk"
+    },
+    {
+        "name": "UNIVERSITY OF FATA",
+        "sector": "Public",
+        "city": "Kohat",
+        "address": "Govt Degree College Darra Adam Khel Akhurwal F.R Kohat N-55, Pakistan.",
+        "other_details": "Email: info@fu.edu.pk\nFax:\nURL:http://www.fu.edu.pk/"
+    },
+    {
+        "name": "UNIVERSITY OF GUJRAT",
+        "sector": "Public",
+        "city": "Gujrat",
+        "address": "University of Gujrat Hafiz Hayat Campus Jalalpur Road Gujrat, Pakistan.",
+        "other_details": "Email: info@uog.edu.pk\nFax:\nURL:http://www.uog.edu.pk"
+    },
+    {
+        "name": "UNIVERSITY OF HEALTH SCIENCES",
+        "sector": "Public",
+        "city": "Lahore",
+        "address": "University of Health Sciences, Khayaban-e-Jamia Punjab, Lahore-54600",
+        "other_details": "Email: info@uhs.edu.pk\nFax:042-9230870\nURL:http://www.uhs.edu.pk"
+    },
+    {
+        "name": "UNIVERSITY OF KARACHI",
+        "sector": "Public",
+        "city": "Karachi",
+        "address": "University of Karachi Main University Road Karachi - 75270 Sindh, Pakistan",
+        "other_details": "Email: info@uok.edu.pk\nFax:92.21.99261330\nURL:http://www.uok.edu.pk"
+    },
+    {
+        "name": "University of Kotli Azad Jammu and Kashmir",
+        "sector": "Public",
+        "city": "Muzzaffarabad",
+        "address": "Kotli, Azad Kashmir,",
+        "other_details": "Email: vice.chancellor@uokajk.edu.pk\nFax:(+92) 5826 960049\nURL:http://www.uokajk.edu.pk"
+    },
+    {
+        "name": "UNIVERSITY OF LAHORE",
+        "sector": "Private",
+        "city": "Lahore",
+        "address": "UNIVERSITY OF LAHORE,1-K.M, Raiwind Road, Lahore.",
+        "other_details": "Email: info@uol.edu.pk\nFax:\nURL:http://www.uol.edu.pk"
+    },
+    {
+        "name": "University of Loralai",
+        "sector": "Public",
+        "city": "Lasbela",
+        "address": "College Road, Loralai at Loralai Zhob Division, Balochistan.",
+        "other_details": "Email: info@uoli.edu.pk\nFax:\nURL:http://www.uoli.edu.pk/"
+    },
+    {
+        "name": "University of Malakand",
+        "sector": "Public",
+        "city": "Mardan",
+        "address": "Chakdara, Dir, Lower, Malakand Khyber Pakhtunkhwa",
+        "other_details": "Email: missinginfo@uom.edu.pk\nFax:0945-761624\nURL:http://www.uom.edu.pk"
+    },
+    {
+        "name": "UNIVERSITY OF MANAGEMENT & TECHNOLOGY",
+        "sector": "Private",
+        "city": "Lahore",
+        "address": "University of Management and Technology , C-II Johar Town Lahore",
+        "other_details": "Email: admissions@umt.edu.pk\nFax:+92 42 35184789\nURL:http://www.umt.edu.pk"
+    },
+    {
+        "name": "UNIVERSITY OF PESHAWAR",
+        "sector": "Public",
+        "city": "Peshawar",
+        "address": "Old Jamrud Road, Peshawar.",
+        "other_details": "Email: registrar@uop.edu.pk\nFax:+92-91-9216736\nURL:http://www.uop.edu.pk/"
+    },
+    {
+        "name": "University of Poonch",
+        "sector": "Public",
+        "city": "Rawalakot",
+        "address": "B-65, Housing Scheme, Rawalakot (Azad Kashmir)",
+        "other_details": "Email: registrar@upr.edu.pk\nFax:92 5824-960054\nURL:http://www.upr.edu.pk/"
+    },
+    {
+        "name": "UNIVERSITY OF SARGODHA",
+        "sector": "Public",
+        "city": "Sargodha",
+        "address": "University of Sargodha, University Road Sargodha 40100 Punjab,Pakistan",
+        "other_details": "Email: info@uos.edu.pk\nFax:\nURL:http://www.uos.edu.pk"
+    },
+    {
+        "name": "UNIVERSITY OF SCIENCE & TECHNOLOGY",
+        "sector": "Public",
+        "city": "Bunnu",
+        "address": "University of Science & Technology, Bannu, Khyber Pakhtunkhawa (KPK), (Pakistan)",
+        "other_details": "Email: registrar@ustb.edu.pk\nFax:+92-928-633821\nURL:http://www.ustb.edu.pk"
+    },
+    {
+        "name": "UNIVERSITY OF SINDH",
+        "sector": "Public",
+        "city": "Jamshoro",
+        "address": "Allama I.I.Kazi Campus, University of Sindh, Jamshoro-76080, Sindh, Pakistan.",
+        "other_details": "Email: info@usindh.edu.pk\nFax:+92-22-9213-246\nURL:http://www.usindh.edu.pk"
+    },
+    {
+        "name": "UNIVERSITY OF SOUTH ASIA",
+        "sector": "Private",
+        "city": "Lahore",
+        "address": "47-Tufail Road, Lahore Cantt.",
+        "other_details": "Email: help@usa.edu.pk\nFax:\nURL:+92-42-36672943, +92-42-366 50983"
+    },
+    {
+        "name": "UNIVERSITY OF SWABI",
+        "sector": "Public",
+        "city": "Swabi",
+        "address": "University of Swabi, Khyber Pakhtunkhwa",
+        "other_details": "Email: adminofficer@uoswabi.edu.pk\nFax:0938490238\nURL:http://www.uoswabi.edu.pk"
+    },
+    {
+        "name": "UNIVERSITY OF SWAT",
+        "sector": "Public",
+        "city": "Swat",
+        "address": "G.T Road, Odigram, Swat, Khyber Pakhtunkhwa.",
+        "other_details": "Email: registrar@uswat.edu.pk\nFax:\nURL:http://www.uswat.edu.pk/"
+    },
+    {
+        "name": "UNIVERSITY OF TECHNOLOGY (SHUHADA-E-ARMY PUBLIC SCHOOL)",
+        "sector": "Public",
+        "city": "Nowshera",
+        "address": "Ex-Adamjee Paper and Board Mills, Amangarh, Nowshera. 24100",
+        "other_details": "Email: samibangash@uotnowshera.edu.pk\nFax:\nURL:http://uotnowshera.edu.pk/"
+    },
+    {
+        "name": "UNIVERSITY OF THE PUNJAB",
+        "sector": "Public",
+        "city": "Lahore",
+        "address": "P.O. Box No. 54590. Lahore, Pakistan.",
+        "other_details": "Email: registrar@pu.edu.pk\nFax:92-55-9201223\nURL:http://www.pu.edu.pk"
+    },
+    {
+        "name": "UNIVERSITY OF TURBAT",
+        "sector": "Public",
+        "city": "Jazan",
+        "address": "Overseas Colony, Airport Road, Turbat Balochistan.",
+        "other_details": "Email: registrar@uot.edu.pk\nFax:http://www.uot.edu.p\nURL:http://www.uot.edu.pk"
+    },
+    {
+        "name": "UNIVERSITY OF VETERINARY & ANIMAL SCIENCES",
+        "sector": "Public",
+        "city": "Lahore",
+        "address": "University of Veterinary and Animal Sciences - UVAS Syed Abdul Qadir Jillani (Out Fall) Road, Lahore - Pakistan",
+        "other_details": "Email: helpline@uvas.edu.pk\nFax:92-42-9211461\nURL:http://www.uvas.edu.pk"
+    },
+    {
+        "name": "UNIVERSITY OF WAH",
+        "sector": "Private",
+        "city": "Wah Cantt",
+        "address": "Quaid Avenue, The Mall. Wah Cantt.",
+        "other_details": "Email: info@uow.edu.pk\nFax:051-9314311\nURL:http://www.uow.edu.pk/"
+    },
+    {
+        "name": "VIRTUAL UNIVERSITY OF PAKISTAN",
+        "sector": "Public",
+        "city": "Lahore",
+        "address": "M.A. Jinnah Campus, Defence Road, Off Raiwind Road, Lahore, Pakistan.",
+        "other_details": "Email: registrar@vu.edu.pk\nFax:+92-42-99200604\nURL:http://www.vu.edu.pk/"
+    },
+    {
+        "name": "WOMEN UNIVERSITY MARDAN",
+        "sector": "Public",
+        "city": "Mardan",
+        "address": "http://www.wumardan.edu.pk",
+        "other_details": "Email: pstovc@wumardan.edu.pk\nFax:\nURL:http://www.wumardan.edu.pk"
+    },
+    {
+        "name": "Women University of Azad Jammu & Kashmir",
+        "sector": "Public",
+        "city": "Mirpur (AK)",
+        "address": "Women University of Azad Jammu & Kashmir, Bagh",
+        "other_details": "Email: info@wuajk.edu.pk\nFax:\nURL:http://www.wuajk.edu.pk/"
+    },
+    {
+        "name": "WOMEN UNIVERSITY, SWABI",
+        "sector": "Public",
+        "city": "Swabi",
+        "address": "WOMEN UNIVERSITY, SWABI",
+        "other_details": "Email: info@wus.edu.pk\nFax:\nURL:http://www.wus.edu.pk/"
+    },
+    {
+        "name": "ZIA-UD-DIN UNIVERSITY",
+        "sector": "Private",
+        "city": "Karachi",
+        "address": "4/B, Shahra-e-Ghalib, Block 6, Clifton, Karachi 75600.",
+        "other_details": "Email: info@zu.edu.pk\nFax:(9221) 35862940\nURL:ZIA-UD-DIN UNIVERSITY"
+    }
+]
