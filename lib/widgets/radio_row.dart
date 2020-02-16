@@ -17,11 +17,18 @@ class RadioRow extends StatelessWidget {
           groupValue: radioModel.groupValue,
           onChanged: onChanged,
         ),
-        Text(
-          radioModel.title,
-          style: TextStyle(
-            color: Theme.of(context).primaryColor,
-            fontSize: Theme.of(context).textTheme.subtitle2.fontSize,
+        Flexible(
+          fit: FlexFit.loose,
+          child: Padding(
+            padding: const EdgeInsets.only(right: 8),
+            child: Text(
+              radioModel.title,
+              softWrap: true,
+              style: TextStyle(
+                color: Theme.of(context).primaryColor,
+                fontSize: Theme.of(context).textTheme.subtitle2.fontSize,
+              ),
+            ),
           ),
         )
       ],

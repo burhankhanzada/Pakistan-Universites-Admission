@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:pakistan_universities_admission/pages/home.dart';
+import 'package:pakistan_universities_admission/utils/color.dart';
 
 main() => runApp(App());
 
 class App extends StatelessWidget {
-
   final String title = 'Pakistan Universities Admission';
 
   @override
@@ -12,10 +12,7 @@ class App extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: title,
-      theme: ThemeData(
-        primaryColor: Colors.green[900],
-        accentColor:  Colors.green[900]
-      ),
+      theme: ThemeData(primaryColor: brandColor, accentColor: brandColor),
       home: HomePage(title: title),
     );
   }

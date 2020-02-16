@@ -1,6 +1,9 @@
+import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:pakistan_universities_admission/models/university/university.dart';
 import 'package:pakistan_universities_admission/pages/university_detail.dart';
+import 'package:pakistan_universities_admission/utils/color.dart';
+import 'package:pakistan_universities_admission/widgets/city.dart';
 
 class UniversityCard extends StatelessWidget {
   final University university;
@@ -9,6 +12,40 @@ class UniversityCard extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    Color primaryColor;
+
+    ThemeData theme() {
+      if (university.color != null) {
+        print(university.color);
+        primaryColor = Color(getColorFromHex(university.color));
+        return Theme.of(context)
+            .copyWith(primaryColor: primaryColor, accentColor: primaryColor);
+      }
+    }
+
+    Widget image() {
+      if (university.logo != null) {
+        return CachedNetworkImage(
+          width: 50,
+          height: 50,
+          imageUrl: university.logo,
+          placeholder: (context, url) => CircularProgressIndicator(),
+        );
+      } else
+        return CircleAvatar(
+          radius: 25,
+          backgroundColor: Theme.of(context).primaryColor,
+          child: Padding(
+            padding: const EdgeInsets.all(8.0),
+            child: Image.asset(
+              'assets/images/university.png',
+              height: 50,
+              color: Colors.white,
+            ),
+          ),
+        );
+    }
+
     return Card(
       margin: EdgeInsets.all(8),
       child: InkWell(
@@ -25,19 +62,10 @@ class UniversityCard extends StatelessWidget {
         child: Padding(
           padding: const EdgeInsets.all(8.0),
           child: Row(
-            crossAxisAlignment: CrossAxisAlignment.start,
             children: <Widget>[
-              CircleAvatar(
-                radius: 24,
-                backgroundColor: Theme.of(context).primaryColor,
-                child: Padding(
-                  padding: const EdgeInsets.all(8.0),
-                  child: Image.asset(
-                    'assets/images/university.png',
-                    height: 48,
-                    color: Colors.white,
-                  ),
-                ),
+              Hero(
+                tag: university.name,
+                child: image(),
               ),
               Expanded(
                 flex: 1,
@@ -57,23 +85,24 @@ class UniversityCard extends StatelessWidget {
                         children: <Widget>[
                           Flexible(
                             flex: 1,
+                            fit: FlexFit.loose,
                             child: Row(
+                              crossAxisAlignment: CrossAxisAlignment.start,
                               children: <Widget>[
                                 Image.asset(
                                   'assets/images/location.png',
                                   height: 24,
                                   color: Theme.of(context).primaryColor,
                                 ),
-                                Padding(
+                                Flexible(
+                                  fit: FlexFit.loose,
+                                  child: Padding(
                                     padding: const EdgeInsets.only(left: 8.0),
-                                    child: university.city is String
-                                        ? Text(
-                                            '${university.city}',
-                                            style: Theme.of(context)
-                                                .textTheme
-                                                .headline6,
-                                          )
-                                        : null),
+                                    child: CityWidget(
+                                      university: university,
+                                    ),
+                                  ),
+                                )
                               ],
                             ),
                           ),

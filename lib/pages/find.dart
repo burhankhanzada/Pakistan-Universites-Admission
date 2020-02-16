@@ -44,21 +44,21 @@ class _FindPageState extends State<FindPage> {
     if (widget.optionChoosedFromHome == 0) {
       _stepList = [
         Step(
-          isActive: _currentStep == 0 ? true : false,
+          isActive: true,
           state: _currentStep == 0 ? StepState.editing : StepState.indexed,
-          title: _stepTitleWidget(text: 'Whats is your last qualification?'),
+          title: _stepTitleWidget(text: 'What is your last qualification?'),
           content: _lastQualificationListWidget(),
         ),
         Step(
-          isActive: _currentStep == 1 ? true : false,
+          isActive: true,
           state: _currentStep == 1 ? StepState.editing : StepState.indexed,
-          title: _stepTitleWidget(text: 'What percentage you get?'),
+          title: _stepTitleWidget(text: 'What percentage you got?'),
           content: _peratgeTextFeildWidget(),
         ),
         Step(
-          isActive: _currentStep == 2 ? true : false,
+          isActive: true,
           state: _currentStep == 2 ? StepState.editing : StepState.indexed,
-          title: _stepTitleWidget(text: 'What degree you want to do?'),
+          title: _stepTitleWidget(text: 'Choose a degree you want to do?'),
           content: _degreeListWidget(),
         ),
         // Step(
@@ -127,7 +127,6 @@ class _FindPageState extends State<FindPage> {
 
   _selectStep(int index) => setState(() {
         _currentStep = index;
-        print('current indecx: $_currentStep');
       });
 
   _cancelStep() {
@@ -153,7 +152,7 @@ class _FindPageState extends State<FindPage> {
         break;
       case 1:
         if (_qualificationPercentage >= 50.0) {
-          degreeList.add(BachelorDegrees.pharmD);
+          degreeList.add(BachelorDegrees.pharmd);
           degreeList.add(BachelorDegrees.mbbs);
           degreeList.add(BachelorDegrees.bscn);
         }
@@ -180,14 +179,11 @@ class _FindPageState extends State<FindPage> {
 
       _universityList = [];
 
-      for (var json in parsedJson) {
-        var university = University.fromJson(json);
+      for (Map universityMap in parsedJson) {
+        University university = University.fromJson(universityMap);
 
-        if (university.degreeList.contains(_degreeRadioGroupValue)) {
-          print('${university.name} have selected $_degreeRadioGroupValue');
+        if (university.degrees.contains(_degreeRadioGroupValue)) {
           _universityList.add(university);
-        } else {
-          print('${university.name} have not selected $_degreeRadioGroupValue');
         }
       }
 

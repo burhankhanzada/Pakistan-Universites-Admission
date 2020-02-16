@@ -7,10 +7,17 @@ import 'package:pakistan_universities_admission/pages/university_detail.dart';
 import 'package:pakistan_universities_admission/widgets/radio_row.dart';
 import 'package:pakistan_universities_admission/widgets/university_card.dart';
 
-class UniversitiesPage extends StatelessWidget {
+class UniversitiesPage extends StatefulWidget {
   List<University> universityList;
 
   UniversitiesPage({this.universityList});
+
+  @override
+  _UniversitiesPageState createState() => _UniversitiesPageState();
+}
+
+class _UniversitiesPageState extends State<UniversitiesPage> {
+  int sortRadioGroup = 0;
 
   @override
   Widget build(BuildContext context) {
@@ -18,47 +25,52 @@ class UniversitiesPage extends StatelessWidget {
       appBar: AppBar(
         title: Text('All Universities'),
         actions: <Widget>[
-          PopupMenuButton(
-            icon: Icon(Icons.filter_list),
-            onSelected: (String) {},
-            itemBuilder: (context) {
-              return <PopupMenuItem>[
-                PopupMenuItem(
-                  child: RadioRow(
-                    radioModel: RadioModel(
-                        title: 'Sort with name',
-                        value: 'name',
-                        groupValue: 'sort'),
-                    onChanged: (value) {},
-                  ),
-                ),
-                PopupMenuItem(
-                  child: RadioRow(
-                    radioModel: RadioModel(
-                        title: 'Sort with city',
-                        value: 'city',
-                        groupValue: 'sort'),
-                    onChanged: (value) {},
-                  ),
-                )
-              ];
-            },
-          ),
+          // PopupMenuButton(
+          //   icon: Icon(Icons.filter_list),
+          //   onSelected: (String) {},
+          //   itemBuilder: (context) {
+          //     return <PopupMenuItem>[
+          //       PopupMenuItem(
+          //         child: RadioRow(
+          //           radioModel: RadioModel(
+          //               title: 'Sort with name',
+          //               value: 0,
+          //               groupValue: sortRadioGroup),
+          //           onChanged: (value) => setState(
+          //             () => sortRadioGroup = value,
+          //           ),
+          //         ),
+          //       ),
+          //       PopupMenuItem(
+          //         child: RadioRow(
+          //           radioModel: RadioModel(
+          //               title: 'Sort with city',
+          //               value: 1,
+          //               groupValue: sortRadioGroup),
+          //           onChanged: (value) => setState(
+          //             () => sortRadioGroup = value,
+          //           ),
+          //         ),
+          //       )
+          //     ];
+          //   },
+          // ),
           IconButton(
             icon: Icon(Icons.search),
             onPressed: () {
-              print(universityList.length);
+              print(widget.universityList.length);
               showSearch(
                 context: context,
-                delegate: SearchUniversity(universityList: universityList),
+                delegate:
+                    SearchUniversity(universityList: widget.universityList),
               );
             },
           )
         ],
       ),
-      body: universityList != null
+      body: widget.universityList != null
           ? UniversityList(
-              universityList: universityList,
+              universityList: widget.universityList,
             )
           : FutureBuilder(
               future: DefaultAssetBundle.of(context)
@@ -73,7 +85,7 @@ class UniversitiesPage extends StatelessWidget {
                     list.add(University.fromJson(json));
                   }
 
-                  universityList = list;
+                  widget.universityList = list;
 
                   return UniversityList(
                     universityList: list,
@@ -95,14 +107,25 @@ class UniversityList extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return ListView.builder(
-      itemCount: universityList.length,
-      itemBuilder: (context, index) {
-        return UniversityCard(
-          university: universityList[index],
-        );
-      },
-    );
+    if (universityList.isNotEmpty) {
+      return ListView.builder(
+        itemCount: universityList.length,
+        itemBuilder: (context, index) {
+          return UniversityCard(
+            university: universityList[index],
+          );
+        },
+      );
+    } else {
+      return Center(
+        child: Text(
+          'No University Found',
+          style: TextStyle(
+              color: Theme.of(context).primaryColor,
+              fontSize: Theme.of(context).textTheme.headline6.fontSize),
+        ),
+      );
+    }
   }
 }
 

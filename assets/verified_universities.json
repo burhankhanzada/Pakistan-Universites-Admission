@@ -1,20 +1,22 @@
 [
     {
-        "name": "IQRA UNIVERSITY",
+        "name": "Iqra University",
+        "logo": "https://media-exp1.licdn.com/dms/image/C511BAQG8Nsq4yK-DQg/company-background_10000/0?e=2159024400&v=beta&t=Y6topSPqoRB8ALnCjGGg0-RF-LEM1sqHGXGvhs60v1w",
         "sector": "Private",
         "website": "http://www.iqra.edu.pk",
         "email": "registrar@iqra.edu.pk",
-        "city": [
+        "color": "0091D2",
+        "cities": [
             "Karachi",
             "Islamabad"
         ],
-        "campaues": [
+        "campuses": [
             {
                 "name": "Main/EDC Tower Campus",
                 "address": "Defence View, Shaheed-e-Millat Road, Karachi"
             },
             {
-                "name": "North Kaarchi Campus",
+                "name": "North Karachi Campus",
                 "address": "Sector 7b North Karachi Twp, Karachi"
             },
             {
@@ -27,11 +29,11 @@
             },
             {
                 "name": "Airport Campus",
-                "address": "Main Shahra e Faisal, Faisal Cantonment, Karach"
+                "address": "Main Shahra e Faisal, Faisal Cantonment, Karachi"
             },
             {
                 "name": "Islamabad Campus",
-                "address": "Main Shahra e Faisal, Faisal Cantonment, Karach"
+                "address": "5 Khayaban-e-Johar, Sector H-9/1 H 9/1 H-9, Islamabad, Islamabad Capital Territory"
             }
         ],
         "degrees": [
@@ -44,9 +46,10 @@
     },
     {
         "name": "Sir Syed University",
+        "logo": "https://i2.wp.com/ssuet.edu.pk/wp-content/uploads/2016/08/SSUET-Logo-01-Final-512x512.png?fit=512%2C512",
         "sector": "Private",
-        "website": "http://www.iqra.edu.pk",
-        "email": "registrar@iqra.edu.pk",
+        "website": "http://www.ssuet.edu.pk",
+        "email": "info@ssuet.edu.pk",
         "city": "Karachi",
         "address": "Main University Road, Karachi 75300, Pakistan",
         "degrees": [
@@ -54,6 +57,19 @@
             "bsse",
             "bee",
             "bsee"
+        ]
+    },
+    {
+        "name": "Jinnah University for Women",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQEAizF3IJg0O_5jyzOf3YcVMjbUoyQgJ-M-uGtr9XnUdM8FVH4",
+        "sector": "Private",
+        "website": "http://www.juw.edu.pk",
+        "email": "info@juw.edu.pk",
+        "city": "Karachi",
+        "address": "Jinnah University for Women, 5-C, Nazimabad, Karachi 74600.",
+        "degrees": [
+            "bscs",
+            "pharmd"
         ]
     }
 ]

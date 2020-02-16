@@ -73,7 +73,7 @@ class HomePage extends StatelessWidget {
               mainAxisSize: MainAxisSize.min,
               children: <Widget>[
                 button(
-                  text: 'Find for undergraduate degree',
+                  text: 'Find university for undergraduate degree',
                   imagePath: 'assets/images/certificate.png',
                   onPressed: () => Navigator.push(
                     context,
@@ -109,7 +109,7 @@ class HomePage extends StatelessWidget {
                 //   ),
                 // ),
                 button(
-                  text: 'See All Universities',
+                  text: 'See all universities',
                   imagePath: 'assets/images/university.png',
                   onPressed: () => Navigator.push(
                     context,
